@@ -1,0 +1,60 @@
+2026-03-04T04:33:01.705664Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2026-03-04T04:33:01.705926Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App", pattern: "**/*", negated: false }
+2026-03-04T04:33:01.706378Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2026-03-04T04:33:01.706393Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App" }
+2026-03-04T04:33:01.707834Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.707960Z  INFO discover_sources:walk_synchronous: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.711933Z  INFO discover_sources:walk_synchronous: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.712553Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\.github\\copilot-instructions.md"
+2026-03-04T04:33:01.712566Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\README_LAUNCHER.md"
+2026-03-04T04:33:01.712636Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\Run App.bat"
+2026-03-04T04:33:01.712634Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\CHROMEBOOK_DEPLOYMENT.md"
+2026-03-04T04:33:01.712734Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\server.js"
+2026-03-04T04:33:01.712771Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\CHROMEBOOK_README.md"
+2026-03-04T04:33:01.712805Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\src\\App.jsx"
+2026-03-04T04:33:01.712852Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\src\\counter.js"
+2026-03-04T04:33:01.712876Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\DESKTOP_APP_README.md"
+2026-03-04T04:33:01.712903Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\src\\javascript.svg"
+2026-03-04T04:33:01.712936Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\electron\\main.js"
+2026-03-04T04:33:01.712943Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\src\\main.js"
+2026-03-04T04:33:01.713002Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\electron\\preload.js"
+2026-03-04T04:33:01.713002Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\src\\main.jsx"
+2026-03-04T04:33:01.713031Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\Launch App.bat"
+2026-03-04T04:33:01.713049Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\tailwind.config.js"
+2026-03-04T04:33:01.713051Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\index.html"
+2026-03-04T04:33:01.713091Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\vite.config.js"
+2026-03-04T04:33:01.713098Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\package.json"
+2026-03-04T04:33:01.713101Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\web-build\\index.html"
+2026-03-04T04:33:01.713151Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\postcss.config.js"
+2026-03-04T04:33:01.713226Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\public\\manifest.json"
+2026-03-04T04:33:01.713243Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\web-build\\assets\\index-CaGSsmmx.js"
+2026-03-04T04:33:01.713274Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\public\\sw.js"
+2026-03-04T04:33:01.713302Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\web-build\\manifest.json"
+2026-03-04T04:33:01.713309Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\web-build\\sw.js"
+2026-03-04T04:33:01.713318Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\public\\vite.svg"
+2026-03-04T04:33:01.713351Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\README.md"
+2026-03-04T04:33:01.713381Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\web-build\\vite.svg"
+2026-03-04T04:33:01.713585Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.713604Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.713608Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.713613Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.715713Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.715734Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.715740Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.715743Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 2 file(s)
+2026-03-04T04:33:01.715847Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\src\\style.css"
+2026-03-04T04:33:01.715854Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\reala\\OneDrive\\Desktop\\Symposium Research Grading App\\web-build\\assets\\index-DA3ytLOw.css"
+2026-03-04T04:33:01.715956Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.715975Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.715979Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.716052Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.716060Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.716372Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.716969Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.716976Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.716979Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.717129Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.717230Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.717234Z  INFO get_globs:discover_sources: tailwindcss_oxide::scanner: enter
+2026-03-04T04:33:01.717237Z  INFO get_globs:discover_sources: tailwindcss_oxide::scanner: exit
+2026-03-04T04:33:01.722141Z  INFO get_globs: tailwindcss_oxide::scanner: exit
